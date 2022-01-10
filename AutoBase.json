@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nameAuto": "BMW",
+    "state": "base"
+  },
+  {
+    "id": 2,
+    "nameAuto": "AUDI",
+    "state": "base"
+  },
+  {
+    "id": 3,
+    "nameAuto": "MERCEDES",
+    "state": "base"
+  }
+]

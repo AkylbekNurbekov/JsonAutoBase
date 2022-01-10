@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Akyl",
+    "bus": "BMW"
+  },
+  {
+    "id": 2,
+    "name": "Maks",
+    "bus": "AUDI"
+  },
+  {
+    "id": 3,
+    "name": "Katya",
+    "bus": "MERCEDES"
+  }
+]
